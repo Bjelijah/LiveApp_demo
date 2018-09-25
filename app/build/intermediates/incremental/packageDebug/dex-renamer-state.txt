@@ -1,0 +1,4 @@
+#Tue Sep 25 17:22:15 CST 2018
+base.0=E\:\\Android\\StudioProjects\\LiveVideo_Android_Demo_v3.1.0\\LiveApp_demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\Android\\StudioProjects\\LiveVideo_Android_Demo_v3.1.0\\LiveApp_demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

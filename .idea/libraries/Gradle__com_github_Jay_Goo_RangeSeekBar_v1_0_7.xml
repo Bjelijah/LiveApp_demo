@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Jay-Goo:RangeSeekBar-v1.0.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/b277c3f04e4b5367841927b5a94a666de0ef98ce/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/b277c3f04e4b5367841927b5a94a666de0ef98ce/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Jay-Goo/RangeSeekBar/v1.0.7/e2df11440ba04c001513c1229b915a561684d940/RangeSeekBar-v1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

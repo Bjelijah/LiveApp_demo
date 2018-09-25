@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_jars__:E.\Android\StudioProjects\LiveVideo_Android_Demo_v3.1.0\LiveApp_demo\uikit\libs\universal-image-loader-1.9.5.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/uikit/libs/universal-image-loader-1.9.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/uikit/doc/universal-image-loader-1.9.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

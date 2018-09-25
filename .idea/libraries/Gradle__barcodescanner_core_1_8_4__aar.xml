@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: barcodescanner-core-1.8.4:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/e57dd0d46483edaef56266d9d96feadbd619a3fd/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/e57dd0d46483edaef56266d9d96feadbd619a3fd/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

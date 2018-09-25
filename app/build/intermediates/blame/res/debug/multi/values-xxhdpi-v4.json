@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "E:\\Android\\StudioProjects\\LiveVideo_Android_Demo_v3.1.0\\LiveApp_demo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\itufo\\.android\\build-cache\\e57dd0d46483edaef56266d9d96feadbd619a3fd\\output\\res\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 55,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "C:\\Users\\itufo\\.android\\build-cache\\e57dd0d46483edaef56266d9d96feadbd619a3fd\\output\\res\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 55,
+                        "endOffset": 165
+                    }
+                }
+            }
+        ]
+    }
+]
